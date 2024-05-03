@@ -11046,3 +11046,9 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.img-card-button {
+  width: 25rem;
+  height: 20rem;
+  object-fit: cover
+}
